@@ -17,6 +17,13 @@ This repository contains a ZIP file with the following datasets:
 2. Extract the contents of the ZIP file to your local machine.
 3. Load the individual CSV files into your SQL database or data analysis tool.
 
+## Apple Database Table Schema image
+
+![Apple Table Schema](apple_table_schema.png)
+
+**Description:**  
+The image above illustrates the schema of the Apple database tables used in this project. It shows the structure and relationships between tables such as
+
 ## Database Schema
 
 The dataset includes the following tables:
